@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "5.10.0",
+  "description": "All the benefits of npm scripts without the cost of a bloated package.json and limits of json",
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "repository": "https://github.com/test/nps.git",
+  "package": "https://github.com/test/nps.zip",
+  "bugs":"https://github.com/test/test/issues",
+  "homepage": "https://github.com/test/test#readme"
+}
