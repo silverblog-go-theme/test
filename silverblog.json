@@ -9,4 +9,5 @@
   "bugs":"https://github.com/test/test/issues",
   "homepage": "https://github.com/test/test#readme"
   "metadata": "https://raw.githubusercontent.com/silverblog-go-theme/test/main/silverblog.json"
+  "depend": "> 0.0.1"
 }
