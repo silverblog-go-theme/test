@@ -8,4 +8,5 @@
   "package": "https://github.com/test/nps.zip",
   "bugs":"https://github.com/test/test/issues",
   "homepage": "https://github.com/test/test#readme"
+  "metadata": "https://raw.githubusercontent.com/silverblog-go-theme/test/main/silverblog.json"
 }
